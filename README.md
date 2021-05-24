@@ -1,7 +1,5 @@
-# The Man,
-# The Myth,
-# The Legend,
-# javaspence
+### Who is javaspence?
 
-### A programmer that is cool. 
-###### I am a programmer that makes stuff for no reason whatsoever. Why I make it? I don't know, but I do know that it is fun. I make apps that maybe will help people in the future? I don't know.
+#### A cool dude.
+
+##### I am currently working on Banana Clicker, a game made for the sole purpose of me learning javascript. That's all I'm working on.
