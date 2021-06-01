@@ -1,5 +1,1 @@
-### Who is javaspence?
-
-#### A cool dude.
-
-##### I am currently working on Banana Clicker, a game made for the sole purpose of me learning javascript. That's all I'm working on.
+##Hello. My name is Spencer, better known as javaspence. I am a programmer and developer at OnlyFans Games, Ltd. Currently I am working on a game where you click bananas, but future projects will include Chicken Farm and Peter Griffin Goes to Sleep Simulator.
